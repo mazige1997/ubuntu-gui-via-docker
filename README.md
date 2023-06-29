@@ -2,6 +2,8 @@
 
 Run a graphical ubuntu instance on docker.
 
+![Screenshot of project running](screenshot.png)
+
 ## Installation
 ```
 git clone https://github.com/deriv-experiments/ubuntu-gui-via-docker
