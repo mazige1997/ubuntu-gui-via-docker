@@ -1,2 +1,2 @@
 docker build -t vnc .
-docker run --rm -itp 443:443 vnc
+docker run --rm -itp 6800:6800 vnc
